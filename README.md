@@ -1,1 +1,3 @@
-# Hello-vnomo
+#Hello vnomo
+
+mpv /$Home/storage/downloads/vnm.mp3
